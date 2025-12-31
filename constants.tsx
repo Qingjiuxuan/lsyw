@@ -2,7 +2,7 @@ import { Activity, Globe, Shield, MessageCircle, Send, Mail, Twitter } from "luc
 import { ServiceItem, TimelineItem, ContactItem } from "./types";
 
 export const APP_NAME = "一级市场营销服务";
-export const SUB_TITLE = "币圈业务 · 极简高效 · 价格美丽";
+export const SUB_TITLE = "币圈业务 2022-2026 · 极简高效 · 价格美丽";
 export const HERO_DESC = "我们支持 BSC, ETH, SOL, BTC, AVAX, ARB, Base, TON, SUI 等全主流公链，助力项目从 0 到 1 飞跃。";
 
 export const SERVICES: ServiceItem[] = [
