@@ -11,8 +11,8 @@ export const SERVICES: ServiceItem[] = [
     title: "平台收录与流量热搜",
     icon: Activity,
     features: [
-      { label: "头像更新", description: "TP、AVE、Bitget、Dextools、Dexscreener、OKX/币安 Web3 钱包" },
-      { label: "热度排名", description: "AVE 热搜、BSC/ETH 趋势榜、Dextools 排名、BTOK、DeBox 广告位" },
+      { label: "头像更新", description: "TP、AVE、Bitget、DeBox、Dextools、Dexscreener、OKX/币安 Web3 钱包" },
+      { label: "热度排名", description: "AVE 热搜、BSC/ETH 趋势榜、Dextools 排名、BTOK、DeBox 广告位、DeBox 代币红包" },
       { label: "权威收录", description: "CMC & CG 快速收录、知名交易所上币对接" }
     ]
   },
